@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+second
+=======
+modified5 first
+>>>>>>> first

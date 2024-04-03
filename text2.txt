@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+master m
+=======
+<<<<<<< HEAD
+second
+=======
+modified2 first
+>>>>>>> first
+>>>>>>> second
